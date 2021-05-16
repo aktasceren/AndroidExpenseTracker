@@ -1,0 +1,2 @@
+rootProject.name = "AndroidBootcampProject"
+include ':app'
